@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hi there, I'm Jonatan Kwiatkowski 👋
 
-<!--
-**Joniqs/Joniqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dynamic and results-driven frontend developer skilled in ReactJS, Firebase, and Node.js.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [House Marketplace App](https://github.com/Joniqs/housemarketplaceapp)
+
+House Marketplace App lets you list your property for sale or rent.
+
+### [Github Finder](https://github.com/Joniqs/github-finder)
+
+Github Finder lets you find users on GitHub and display relevant data about them.
+
+### [Feedback App](https://github.com/Joniqs/feedback-app)
+
+Feedback App lets you add ratings and leave comments.
+
+### [Github Finder Backend](https://github.com/Joniqs/github-finder-backend)
+
+Node.js Express.js App that fetches GitHub API data.
+
+## Get in Touch
+
+You can reach out to me via email at [kwiatkowskijonatan.jobs@gmail.com](mailto:kwiatkowskijonatan.jobs@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/jonatan-kwiatkowski-9824a6217/).
+
+Feel free to explore my repositories and get in touch if you have any questions or suggestions!
