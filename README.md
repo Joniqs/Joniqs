@@ -14,9 +14,13 @@ LIVE: https://housemarketplaceapp.vercel.app/
 
 Github Finder lets you find users on GitHub and display relevant data about them.
 
+LIVE: https://jonatan-kwiatkowski-github-finder.vercel.app/
+
 ### [Feedback App](https://github.com/Joniqs/feedback-app)
 
 Feedback App lets you add ratings and leave comments.
+
+LIVE: https://jonatan-kwiatkowski-feedback-app.netlify.app/
 
 ### [Github Finder Backend](https://github.com/Joniqs/github-finder-backend)
 
