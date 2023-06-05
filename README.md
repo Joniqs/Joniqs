@@ -6,7 +6,7 @@ Dynamic and results-driven frontend developer skilled in ReactJS, Firebase, and 
 
 ### [House Marketplace App](https://github.com/Joniqs/housemarketplaceapp)
 
-House Marketplace App lets you list your property for sale or rent.
+House Marketplace App lets you list your property for sale and rent.
 
 ### [Github Finder](https://github.com/Joniqs/github-finder)
 
