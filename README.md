@@ -6,7 +6,7 @@ Dynamic and results-driven frontend developer skilled in ReactJS, Firebase, and 
 
 ### [SoundX Wave Headphones](https://github.com/Joniqs/nextjs-react-ecommerce)
 
-Next.js ecommerce app with Sanity CMS and Strapi payments. 
+Ecommerce app built with Nextjs, embracing Sanity CMS and Strapi payments. 
 
 LIVE: https://soundx-wave-headphones.vercel.app/
 
