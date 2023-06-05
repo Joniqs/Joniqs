@@ -8,6 +8,8 @@ Dynamic and results-driven frontend developer skilled in ReactJS, Firebase, and 
 
 House Marketplace App lets you list your property for sale and rent.
 
+LIVE: https://housemarketplaceapp.vercel.app/
+
 ### [Github Finder](https://github.com/Joniqs/github-finder)
 
 Github Finder lets you find users on GitHub and display relevant data about them.
