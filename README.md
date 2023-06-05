@@ -4,6 +4,12 @@ Dynamic and results-driven frontend developer skilled in ReactJS, Firebase, and 
 
 ## Projects
 
+### [SoundX Wave Headphones](https://github.com/Joniqs/nextjs-react-ecommerce)
+
+Next.js ecommerce app with Sanity CMS and Strapi payments. 
+
+LIVE: https://soundx-wave-headphones.vercel.app/
+
 ### [House Marketplace App](https://github.com/Joniqs/housemarketplaceapp)
 
 House Marketplace App lets you list your property for sale and rent.
@@ -15,12 +21,6 @@ LIVE: https://housemarketplaceapp.vercel.app/
 Github Finder lets you find users on GitHub and display relevant data about them.
 
 LIVE: https://jonatan-kwiatkowski-github-finder.vercel.app/
-
-### [Feedback App](https://github.com/Joniqs/feedback-app)
-
-Feedback App lets you add ratings and leave comments.
-
-LIVE: https://jonatan-kwiatkowski-feedback-app.netlify.app/
 
 ### [Github Finder Backend](https://github.com/Joniqs/github-finder-backend)
 
