@@ -4,6 +4,12 @@ Dynamic and results-driven frontend developer skilled in ReactJS, Firebase, and 
 
 ## Projects
 
+### [Gericht Restaurant](https://github.com/Joniqs/gericht_restaurant)
+
+Responsive Website for a Restaurant 
+
+LIVE: https://gericht-restaurante.vercel.app/ 
+
 ### [SoundX Wave Headphones](https://github.com/Joniqs/nextjs-react-ecommerce)
 
 Ecommerce app built with Nextjs, embracing Sanity CMS and Strapi payments. 
