@@ -4,7 +4,7 @@ Dynamic and results-driven frontend developer skilled in ReactJS, Firebase, and 
 
 ## Projects
 
-### [Gericht Restaurant](https://github.com/Joniqs/gericht_restaurant)
+### [Gericht Restaurant](https://github.com/Joniqs/gerich_restaurant)
 
 Responsive Website for a Restaurant 
 
