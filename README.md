@@ -4,6 +4,12 @@ Dynamic and results-driven frontend developer skilled in ReactJS, Firebase, and 
 
 ## Projects
 
+### [React Admin Dashboard](https://github.com/Joniqs/react_admin_dashboard)
+
+Beautiful Admin Dashboard With Charts
+
+LIVE: https://jonatankwiatkowski-react-dashboard.vercel.app/
+
 ### [Gericht Restaurant](https://github.com/Joniqs/gerich_restaurant)
 
 Responsive Website for a Restaurant 
