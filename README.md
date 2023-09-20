@@ -1,6 +1,6 @@
 # Hi there, I'm Jonatan Kwiatkowski 👋
 
-Dynamic and results-driven frontend developer skilled in ReactJS, Firebase, and Node.js.
+Dynamic and results-driven Full Stack developer skilled in Reactjs, Expressjs, Nodejs, MongoDB, Firebase, Context API, Redux and a lot more !
 
 ## Projects
 
